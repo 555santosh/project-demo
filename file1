@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+a=7
+b=9
+
+if [ $a > $b]
+then 
+   echo "a is greater than b"
+else 
+   echo "b is grater than a"
+fi
